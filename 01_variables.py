@@ -50,3 +50,25 @@ print(test_set)
 
 #type() function prints the datatype of the variable.
 print(type(test_dictionary))
+
+
+#operations
+#add
+#sub
+#mult
+#divide
+#integer division
+#modulo division
+
+#add
+print(a+b)
+print(a-b)
+print(a*b)
+print(a / b)
+
+print(a//b)
+
+print(a%b)
+
+
+
